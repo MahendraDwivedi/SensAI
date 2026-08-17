@@ -29,7 +29,7 @@ export default async function Header() {
   href="/"
   className=" text-4xl text-slate-100 font-bold tracking-wide hover:text-blue-950 transition-colors duration-200"
 >
-  Sens<span className="text-blue-900">AI</span>
+  NextCareer<span className="text-blue-900">AI</span>
 </Link>
 
         {/* Action Buttons */}
